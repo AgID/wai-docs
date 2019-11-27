@@ -1,8 +1,7 @@
-**Registrazione sito primario PA**
+Guida utente di Web Analytics Italia
+====================================
 
 .. toctree::
-  :maxdepth: 3
-  :caption: Indice dei contenuti
+   :maxdepth: 3
 
-  sommario.rst
-  registrazione-sito-primario-pubblica-amministrazione.rst
+   registrazione-sito-primario-pubblica-amministrazione.rst
