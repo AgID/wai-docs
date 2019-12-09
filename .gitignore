@@ -1,2 +1,10 @@
 .idea
 .DS_Store
+*.py
+make.bat
+Makefile
+_build
+_static
+_templates
+build
+.vscode
