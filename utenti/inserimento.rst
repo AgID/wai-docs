@@ -1,40 +1,46 @@
-Inserimento nuovo utente
-~~~~~~~~~~~~~~~~~~~~~~~~
+Inserimento di un nuovo utente
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. highlights::
 
-   Descrizione dei passi necessari per l'inserimento di un nuovo utente
+   Come inserire un nuovo utente per la propria PA su Web Anaytics Italia
 
-Accedendo al portale e navigando sul tab **Utenti**,
-potrai usare il pulsante **Aggiungi Utente**
-per invitare un nuovo utente sul portale.
+Puoi invitare un nuovo utente al portale WAI, relativo alla tua PA,
+navigando sul tab **Utenti** e
+utilizzando il pulsante **Aggiungi Utente**.
 
-Nella schermata visualizzata, nella sezione **ANAGRAFICA**
-devono essere completati i seguenti campi:
+Nella sezione **ANAGRAFICA**
+completa i seguenti campi relativi al nuovo utente:
 
 - *indirizzo email di lavoro*, dove sarà notificato l'invito
 - *Codice Fiscale*, da compilare con il codice fiscale dell'utente da invitare
 
-La sezione **Permessi sui siti web** permette di configurare la tipologia,
-e di conseguenza i permessi, dell'utente, che può essere:
+La sezione **Permessi sui siti web** ti permetterà successivamente di
+configurare il ruolo dell'utente e i relativi permessi.
+Un utente di WAI può essere:
 
 - *Amministratore*.
-  Impostando il cursore relativo del campo
-  *Utente con ruolo di amministratore*, che attiva automaticamente
-  i permessi di lettura e gestione per tutti i siti.
-- *Permessi su siti web specifici*.
-  Potrai assegnare all'utente permessi diversi per
-  ciascun sito della Pubblica Amministrazione,
-  agendo sui relativi cursori inerenti lettura o gestione
-  dei dati analytics.
-  Nel caso in cui si attivi il permesso di gestione,
-  automaticamente sarà assegnato quello di lettura.
+  Attivando lo switch relativo del campo
+  *Utente con ruolo di amministratore*,
+  abiliterai l'utente ad amministrare la PA sul portale;
+  questo comporta che otterrà automaticamente
+  i permessi di lettura e gestione dei dati analytics
+  su tutti i siti ed avrà inoltre la facoltà
+  di gestire utenti e siti.
+- *Delegato*.
+  Non attivando lo switch, invece, l'utente sarà invitato come delegato.
+  Un utente con questo ruolo avrà accesso ai dati analytics,
+  ma non potrà gestire siti e utenti della PA.
+  Potrai configurare livelli di accesso diversi per ciascuno sito,
+  abilitandolo alla sola lettura dei dati, oppure anche alla loro gestione.
 
-Dopo aver impostato i valori necessari, premendo il pulsante *Salva*,
-ti sarà mostrata una notifica dell'avvenuto invio dell'invito
-all'indirizzo email indicato e nella pagina
-relativa al tab **Utenti** l'elenco sarà aggiornato con le informazioni
-relative al nuovo utente, con stato *Invitato*.
+Dopo aver impostato ruoli e premendo il pulsante *Salva*,
+ti sarà mostrata la notifica dell'avvenuto invio dell'invito
+all'indirizzo email indicato negli step iniziali della procedura.
+
+Vedrai l'elenco delle utenze presenti nel tab **Utenti**
+aggiornato con le nuove informazioni
+e il nuovo utente sarà contrassegnato come *Invitato*.
 
 Nell'eventualità in cui l'utente segnali
 di non aver ricevuto il tuo invito

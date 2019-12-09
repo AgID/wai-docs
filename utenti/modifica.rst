@@ -1,23 +1,23 @@
-Modifica Utente
-~~~~~~~~~~~~~~~
+Modifica di un utente esistente
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. highlights::
 
-   Descrizione dei passi necessari per modificare un utente
+   Come modificare un utente esistente
 
 Accedendo al portale e navigando sul tab **Utenti**,
-potrai visualizzare l’elenco degli utenti registrati.
-L'operazione di modifica, effettuabile indipendentemente
-dallo stato dell'utente, può essere effettuata in una delle seguenti modalità:
+puoi visualizzare l’elenco degli utenti relativi alla tua PA.
+L'operazione di modifica, indipendente
+dallo stato dell'utente, può essere effettuata:
 
 - Utilizzando il pulsante con il simbolo della matita
 - Entrando nella schermata di dettaglio dell'utente, usando
   il pulsante *dettagli*, quindi all'intero della sezione **INFORMAZIONI**
   cliccando sul pulsante *MODIFICA*
 
-Nella schermata visualizzata, nella sezione **ANAGRAFICA**
+Nella sezione **ANAGRAFICA**
 sono visualizzati i seguenti campi, prevalorizzati con le informazioni
-attualmente presenti nel sistema:
+in quel momento presenti nel sistema:
 
 - *nome* e *cognome*, disponibili in sola lettura
 - *indirizzo email di lavoro*, la cui modifica attiva
@@ -26,10 +26,10 @@ attualmente presenti nel sistema:
 - *codice fiscale*, abilitato alla modifica solamente per gli utenti
   in stato *Invitato*
 
-Nella sezione **Permessi sui siti web**, potrai invece aggiornare
+Nella sezione **Permessi sui siti web**, puoi invece aggiornare
 la tipologia di utente, con i relativi permessi,
-come già effettuato in fase di inserimento.
+come in fase di primo inserimento.
 
-Effettuate le modifiche necessarie, clicca sul pulsante *Salva*
-per completare l'operazione; sarai quindi riposizionato
-sul tab **Utenti** e ti sarà mostrata la notifica di conferma.
+Usa il pulsante *Salva* per completare le modifiche;
+sarai quindi direzionato sul tab **Utenti**
+e ti sarà mostrata la notifica di conferma.

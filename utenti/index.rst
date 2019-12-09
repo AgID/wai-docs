@@ -1,5 +1,5 @@
-Gestione utenti Pubblica Amministrazione
-------------------------------------------------
+Gestione degli utenti relativi alla Pubblica Amministrazione
+------------------------------------------------------------
 
 .. toctree::
    :maxdepth: 2

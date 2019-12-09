@@ -1,11 +1,11 @@
-Sospensione Utente
-~~~~~~~~~~~~~~~~~~
+Sospensione di un utente
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. highlights::
 
-   Descrizione dei passi necessari per sospendere un utente
+   Come sospendere un utente della tua PA
 
-Effettuato l’accesso al sistema, nel Tab **Utenti** ti viene mostrato
+Nel tab **Utenti** ti viene mostrato
 l’elenco degli utenti della PA già registrati.
 Potrai sospendere un utente in stato *attivo* in una delle seguenti modalità:
 
@@ -21,16 +21,16 @@ L'utente sospeso potrà accedere al portale,
 ma perderà qualunque accesso ai contenuti
 della Pubblica Amministrazione.
 
-Riattivazione Utente
-~~~~~~~~~~~~~~~~~~~~
+Riattivazione di un utente
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. highlights::
 
-   Descrizione dei passi necessari per riattivare un utente
+   Come riattivare un utente sospeso
 
-Effettuato l’accesso al sistema, nel Tab **Utenti** ti viene mostrato
+Nel tab **Utenti** ti viene mostrato
 l’elenco degli utenti della PA già registrati.
-Potrai riattivare un utente in stato *sospeso* in una delle seguenti modalità:
+Puoi riattivare un utente in stato *sospeso*:
 
 - Utilizzando il pulsante *riattiva*
 - Entrando nella schermata di dettaglio dell'utente, usando
@@ -42,4 +42,4 @@ quindi ti verrà mostrata la notifica di avvenuta riattivazione.
 
 L'utente riattivato potrà nuovamente accedere ai contenuti
 della Pubblica Amministrazione
-secondo i permessi precedenemente assegnati.
+secondo i permessi precedentemente assegnati.
