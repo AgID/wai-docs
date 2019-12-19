@@ -5,3 +5,4 @@ Guida utente di Web Analytics Italia
    :maxdepth: 3
 
    Gestione Siti <siti/index>
+   Creare una dashboard custom <analytics_dashboard/index>
