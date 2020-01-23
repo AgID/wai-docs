@@ -22,8 +22,8 @@ Un utente di WAI può essere:
 - *Amministratore*.
   Attivando lo switch relativo del campo
   *Utente con ruolo di amministratore*,
-  abiliterai l'utente ad amministrare la PA sul portale;
-  questo comporta che otterrà automaticamente
+  abiliterai l'utente ad amministrare la PA sul portale.
+  L'utente otterrà automaticamente
   i permessi di lettura e gestione dei dati analytics
   su tutti i siti ed avrà inoltre la facoltà
   di gestire utenti e siti.
@@ -31,10 +31,11 @@ Un utente di WAI può essere:
   Non attivando lo switch, invece, l'utente sarà invitato come delegato.
   Un utente con questo ruolo avrà accesso ai dati analytics,
   ma non potrà gestire siti e utenti della PA.
-  Potrai configurare livelli di accesso diversi per ciascuno sito,
-  abilitandolo alla sola lettura dei dati, oppure anche alla loro gestione.
+  Potrai configurare livelli di accesso diversi per ciascun sito,
+  abilitando gli utenti alla sola lettura dei dati
+  oppure anche alla loro gestione.
 
-Dopo aver impostato ruoli e premendo il pulsante *Salva*,
+Dopo aver impostato i ruoli e premendo il pulsante *Salva*,
 ti sarà mostrata la notifica dell'avvenuto invio dell'invito
 all'indirizzo email indicato negli step iniziali della procedura.
 
@@ -42,8 +43,6 @@ Vedrai l'elenco delle utenze presenti nel tab **Utenti**
 aggiornato con le nuove informazioni
 e il nuovo utente sarà contrassegnato come *Invitato*.
 
-Nell'eventualità in cui l'utente segnali
-di non aver ricevuto il tuo invito
-potrai reinviarlo accedendo alla pagina dei *dettagli*
-dell'utente e cliccare sul pulsante *Rispedisci Invito*
+Puoi rigenerare un nuovo link di invito accedendo alla pagina dei *dettagli*
+dell'utente e cliccando sul pulsante *Rispedisci Invito*
 presente nella sezione **STATO**.
