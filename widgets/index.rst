@@ -7,7 +7,7 @@ Esportare i dati dai widget
 
 Esportazione dei dati
 ~~~~~~~~~~~~~~~~~~~~~
-Alcuni widget della dashboard della sezione analytics,
+La maggior parte dei widget della dashboard della sezione analytics,
 permettono di scaricare il relativo set di dati;
 muovi il mouse sopra il widget
 per visualizzare - nell'area in basso a sinistra -
