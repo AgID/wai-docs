@@ -3,13 +3,13 @@ Gestione cookie policy
 
 .. highlights::
 
-   Quali modifiche apportare alle cookie policy del sito
-   per l'attivazione del tracciamento delle visite
+   Quali modifiche apportare alla cookie policy di un sito
+   in seguito all'attivazione di Web Analytics Italia
 
-Prima di attivare la raccolta di dati statistici verso il portale
-di Web Analytics Italia, potrebbe essere necessario
-aggiornare le cookie policy del tuo sito web.
+Dopo aver attivato la raccolta dei dati statistici di un sito mediante
+Web Analytics Italia, potrebbe essere necessario
+aggiornare le cookie policy del sito in questione.
 
 Per aiutarti in questa operazione, di seguito
-puoi trovare alcune indicazione utili e
-un modello base che puoi personalizzare per le tue esigenze.
+trovi alcune indicazione utili e
+un modello base che puoi personalizzare in base alle tue esigenze.
