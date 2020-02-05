@@ -1,9 +1,9 @@
-Informazioni sulla dashboard analytics delle Pubbliche Amministrazioni
-----------------------------------------------------------------------
+Informazioni sulla pagina analytics delle Pubbliche Amministrazioni
+-------------------------------------------------------------------
 
 .. highlights::
 
-   Cosa mostra la dashboard analytics delle pubbliche amministrazioni di WAI
+   Cosa mostra la pagina analytics delle pubbliche amministrazioni di WAI
 
 Quando accedi a WAI nella pagina dedicata agli "Analytics"
 puoi visualizzare la panoramica dei siti
@@ -26,4 +26,4 @@ nei trenta giorni precedenti la data di consultazione.
 Se invece vuoi visualizzare ulteriori indicatori, esaminare
 i dati di un singolo sito web oppure ripetere l'elaborazione sulla base di
 un diverso intervallo temporale, usa il link "Vai alla dashboard"
-per spostarti nella sezione analytics.
+per spostarti nella dashboard della sezione analytics.

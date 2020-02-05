@@ -5,4 +5,4 @@ Guida utente di Web Analytics Italia
    :maxdepth: 3
 
    Gestione Siti <siti/index>
-   Dashboard Analytics Pubbliche Amministrazioni <pa_dashboard/index>
+   Pagina Analytics Pubbliche Amministrazioni <pa_dashboard/index>
