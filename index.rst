@@ -5,4 +5,4 @@ Guida utente di Web Analytics Italia
    :maxdepth: 3
 
    Gestione Siti <siti/index>
-   Dashboard Pubblica <public_dashboard/index>
+   Dati analytics pubblici <public_dashboard/index>

@@ -1,9 +1,9 @@
-Informazioni sulla dashboard pubblica
--------------------------------------
+Informazioni sui dati analytics pubblici
+----------------------------------------
 
 .. highlights::
 
-   Cosa mostra la dashboard pubblica di WAI
+   Cosa mostrano i dati analytics pubblici di WAI
 
 Nella home page di `Web Analytics Italia <https://webanalytics.italia.it>`_
 puoi vedere alcune informazioni generali sull'utilizzo dei siti web
@@ -21,10 +21,10 @@ significative che riguardano, ad esempio:
 
 - la qualità e la fruibilità dei siti stessi,
   valutabili da semplici indicatori come la quantità di visite,
-  la loro durata, la velocità di caricamento delle pagin o le ricerche
+  la loro durata, la velocità di caricamento delle pagine o le ricerche
   effettuate dell'utente.
 
 Infine, puoi vedere in tempo reale quante pubbliche amministrazioni
 hanno aderito al progetto e quanti siti web stanno
 attivamente contribuendo alla valorizzazione dei dati
-nei widget della dashboard.
+analytics.
