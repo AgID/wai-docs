@@ -3,7 +3,7 @@ Inserimento di un nuovo utente
 
 .. highlights::
 
-   Come inserire un nuovo utente per la propria PA su Web Anaytics Italia
+   Come inserire un nuovo utente per la tua PA
 
 Puoi invitare un nuovo utente al portale WAI, relativo alla tua PA,
 navigando sul tab **Utenti** e

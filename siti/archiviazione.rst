@@ -1,9 +1,9 @@
-Archiviazione manuale sito secondario
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Archiviazione manuale di un sito tematico
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. highlights::
 
-   Descrizione dei passi necessari per archiviare un sito secondario della PA.
+   Come archiviare un sito tematico di una PA
 
 Effettuato l’accesso al sistema, nel Tab
 **Siti Web** viene mostrato
@@ -23,12 +23,12 @@ dove ti verrà mostrata la notifica dell'avvenuta operazione.
 
 Nell'elenco dei siti, lo stato sarà aggiornato a *archiviato*.
 
-Riattivazione manuale sito secondario
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Riattivazione manuale di un sito tematico
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. highlights::
 
-   Descrizione dei passi necessari per riattivare un sito secondario della PA.
+   Come riattivare un sito tematico di una PA
 
 Effettuato l’accesso al sistema, nel Tab
 **Siti Web** viene mostrato

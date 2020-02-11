@@ -4,8 +4,8 @@ Guida utente di Web Analytics Italia
 .. toctree::
    :maxdepth: 3
 
-   Gestione Siti <siti/index>
-   Gestione Utenti <utenti/index>
+   Gestione siti <siti/index>
+   Gestione utenti <utenti/index>
    Dati analytics pubblici <public_dashboard/index>
    Pagina Analytics Pubbliche Amministrazioni <pa_dashboard/index>
    Creare una dashboard custom <analytics_dashboard/index>
