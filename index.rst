@@ -8,3 +8,4 @@ Guida utente di Web Analytics Italia
    Gestione Utenti <utenti/index>
    Creare una dashboard custom <analytics_dashboard/index>
    Esportare dati dei widget <widgets/index>
+   Gestione cookie policy <cookie/index>
