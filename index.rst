@@ -5,4 +5,6 @@ Guida utente di Web Analytics Italia
    :maxdepth: 3
 
    Gestione Siti <siti/index>
+   Gestione Utenti <utenti/index>
+   Creare una dashboard custom <analytics_dashboard/index>
    Esportare dati dei widget <widgets/index>
