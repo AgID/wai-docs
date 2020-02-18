@@ -1,9 +1,9 @@
-Gestione degli utenti relativi alla Pubblica Amministrazione
-------------------------------------------------------------
+Gestione degli utenti di una Pubblica Amministrazione
+-----------------------------------------------------
 
 .. toctree::
    :maxdepth: 2
 
-   Inserimento Utente <inserimento>
-   Modifica Utente <modifica>
-   Sospensione Utente <sospensione>
+   Inserimento di un nuovo utente <inserimento>
+   Modifica di un utente <modifica>
+   Sospensione di un utente <sospensione>

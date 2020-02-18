@@ -1,10 +1,9 @@
-Gestione sito secondario Pubblica Amministrazione
--------------------------------------------------
+Gestione di un sito tematico di una Pubblica Amministrazione
+------------------------------------------------------------
 
 .. highlights::
 
-   Descrizione dei passi necessari per la registrazione del sito secondario di
-   una Pubblica Amministrazione sul portale Web Analytics Italia.
+   Come registrare il sito tematico di una PA
 
 Attività propedeutiche
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -13,12 +12,12 @@ Il sito istituzionale della tua Pubblica Amministrazione deve essere già
 registrato e attivato sul portale di  **Web Analytics Italia**.
 
 
-Inserimento sito secondario
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Inserimento di un sito tematico
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Accedendo al portale e navigando sul tab **Siti Web**,
 potrai usare il pulsante **Aggiungi Sito**
-per procedere con l’inserimento di un sito secondario.
+per procedere con l’inserimento di un sito tematico.
 
 .. figure:: /media/home-page-siti-web.png
    :name: home-page-siti-web
@@ -26,7 +25,7 @@ per procedere con l’inserimento di un sito secondario.
 
    Schermata di Home page del tab di navigazione Siti Web
 
-La :ref:`schermata di inserimento <inserimento-sito-secondario>`,
+La :ref:`schermata di inserimento <inserimento-sito-tematico>`,
 ti mostra una form con i seguenti campi:
 
 -  **Nome del Sito** : inserisci un nome con cui identificare il nuovo sito
@@ -34,11 +33,11 @@ ti mostra una form con i seguenti campi:
 -  **Tipologia** : tra le opzioni presentate, scegli la categoria che meglio
    rappresenta il tuo sito
 
-.. figure:: /media/inserimento-sito-secondario.png
-   :name: inserimento-sito-secondario
-   :alt: Schermata Inserimento Sito Secondario
+.. figure:: /media/inserimento-sito-tematico.png
+   :name: inserimento-sito-tematico
+   :alt: Schermata Inserimento Sito tematico
 
-   Schermata di Inserimento del sito secondario
+   Schermata di Inserimento del sito tematico
 
 Per completare l'operazione, clicca il pulsante **Salva**;
 ti verrà mostrata, a conferma dell'avvenuta registrazione,
@@ -51,7 +50,7 @@ la :ref:`seguente schermata <conferma-inserimento-sito>`.
    Schermata conferma inserimento sito
 
 Il tab **Siti Web** ti mostra l'elenco aggiornato dei siti web,
-incluso il sito secondario appena inserito che avrà in stato ``In Attesa``
+incluso il sito tematico appena inserito che avrà in stato ``In Attesa``
 
 L'aggiunta di un nuovo sito, comporta l'invio automatico di
 una email di notifica a tutti gli utenti registrati come amministratori
@@ -60,6 +59,6 @@ se presente, al Responsabile ufficio per la transizione al digitale.
 
 .. figure:: /media/home-page-siti-web-post-inserimento.png
    :name: home-page-siti-web-post-inserimento
-   :alt: Schermata Siti Web post inserimento sito secondario.
+   :alt: Schermata Siti Web post inserimento sito tematico.
 
-   Schermata siti Web post inserimento sito secondario
+   Schermata siti Web post inserimento sito tematico

@@ -3,7 +3,7 @@ Modifica di un utente esistente
 
 .. highlights::
 
-   Come modificare un utente esistente
+   Come modificare un utente esistente della tua PA
 
 Accedendo al portale e navigando sul tab **Utenti**,
 puoi visualizzare l’elenco degli utenti relativi alla tua PA.

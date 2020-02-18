@@ -26,7 +26,7 @@ Riattivazione di un utente
 
 .. highlights::
 
-   Come riattivare un utente sospeso
+   Come riattivare un utente sospeso della tua PA
 
 Nel tab **Utenti** ti viene mostrato
 l’elenco degli utenti della PA già registrati.

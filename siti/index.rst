@@ -1,9 +1,9 @@
-Gestione siti secondari Pubblica Amministrazione
-------------------------------------------------
+Gestione dei siti tematici di una Pubblica Amministrazione
+----------------------------------------------------------
 
 .. toctree::
    :maxdepth: 2
 
-   Inserimento sito <inserimento>
-   Modifica sito <modifica>
-   Archiviazione sito <archiviazione>
+   Inserimento di un sito <inserimento>
+   Modifica di un sito <modifica>
+   Archiviazione di un sito <archiviazione>

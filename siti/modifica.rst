@@ -1,9 +1,9 @@
-Modifica sito secondario
-~~~~~~~~~~~~~~~~~~~~~~~~
+Modifica di un sito tematico
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. highlights::
 
-   Descrizione dei passi necessari per modificare i valori del Nome sito, URL del sito e Tipologia del sito
+   Come modificare i valori "nome", "URL" "tipologia" di un sito tematico
 
 Accedendo al portale e navigando sul tab **Siti Web**,
 ti viene presentato l'elenco dei siti della Pubblica Amministrazione.
@@ -24,5 +24,5 @@ previsti nella fase di inserimento e già precompilati con i valori attuali:
 
 Effettuate le modifiche necessarie, è sufficiente cliccare il pulsante *Salva*
 per aggiornare le informazioni a sistema.
-Completato con successo il salvataggio, sarai riportato sul tab **Siti WEB**
+Completato con successo il salvataggio, sarai riportato sul tab **Siti Web**
 e ti verrà visualizzata la notifica di conferma.
